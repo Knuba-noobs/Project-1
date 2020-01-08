@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+
+        <title>Джо-Джо</title>
+
+<style>
+body {
+  background-image: url("hohh.png");
+  background-size: cover;
+  background-attachment: scroll;
+}
+h1 {
+  text-align: center;
+margin-left:500px;
+margin-right: 500px;
+margin-top: 20px;
+margin-bottom: 100px;
+
+}
+h2{text-align: center;
+margin-left:500px;
+margin-right: 500px;
+margin-top: 20px;
+margin-bottom: 100px;
+font-style: oblique;
+
+}
+
+p.groove {border-style: groove;}
+</style>
+
+    </head>
+    <body>
+      <h1 text-align: center>Добро пожаловать, этот сайт посвящен аниме и манге Jojo's Bizarre Adventure</h1>
+<h2>Манга</h2>
+<img src="manga1.png" >
+<h2>Aниме</h2>
+<h2>Саундтрек</h3>
+<h2>Косплей</h4>
+<h2>Конкурс</h4>
+
+<audio src="audio_file.mp3" id="my_audio" loop="loop" autoplay="autoplay"></audio>
+
+
+
+    </body>
+</html>
